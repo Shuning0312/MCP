@@ -1,0 +1,7 @@
+travel_planner_app.py \
+  --destination 京都 \
+  --duration 5 \
+  --season 4月上旬 \
+  --budget 中等 \
+  --interests 樱花观赏 日本传统文化 寺庙参观 美食探索 \
+  --special 需要规划一天的岚山地区游览
