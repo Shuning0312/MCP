@@ -107,5 +107,5 @@ def main():
     )
 
 if __name__ == "__main__":
-    # main()
-    test_upload_local_plan_to_notion("京都_5天旅游计划.markdown", "京都5日游计划new")
+    main()
+    # test_upload_local_plan_to_notion("京都_5天旅游计划.markdown", "京都5日游计划")
